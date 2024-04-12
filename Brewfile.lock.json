@@ -1,0 +1,30 @@
+{
+  "entries": {
+    "cask": {
+      "bitwarden": {
+        "version": "2024.4.0",
+        "options": {
+          "full_name": "bitwarden"
+        }
+      },
+      "visual-studio-code": {
+        "version": "1.88.1",
+        "options": {
+          "full_name": "visual-studio-code"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "sonoma": {
+        "HOMEBREW_VERSION": "4.2.17",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "api",
+        "CLT": "15.3.0.0.1.1708646388",
+        "Xcode": "15.1",
+        "macOS": "14.4.1"
+      }
+    }
+  }
+}
